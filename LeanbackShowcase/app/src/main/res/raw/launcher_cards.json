@@ -1,0 +1,22 @@
+[
+  {
+    "title": "",
+    "cards": [
+      {
+        "id": 0,
+        "type": "DEFAULT",
+        "title": "Pulau Jawa",
+        "localImageResource": "thumbnail_example_cards",
+        "description": "Showcase of various card design and layouts"
+      },
+      {
+        "id": 1,
+        "type": "DEFAULT",
+        "title": "Luar Jawa",
+        "localImageResource": "thumbnail_example_browse",
+        "description": "Showcase usage of page/rows fragment"
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,829 @@
+[
+  {
+    "type" : 1,
+    "title": "Provinsi Jawa Barat"
+  },
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },{
+  "type" : 1,
+  "title": "Provinsi Jawa Tengah"
+},
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },{
+  "type" : 1,
+  "title": "Provinsi Jawa Timur"
+},
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },
+  {
+    "title": "Kota",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_02"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_03"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Wisata",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wisata",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  }
+]
+
