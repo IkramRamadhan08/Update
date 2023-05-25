@@ -58,7 +58,7 @@ We love contributions! :smile: Please follow the steps in the [CONTRIBUTING guid
 
 ## License
 
-See the [LICENSE file][license] for details. raihan
+See the [LICENSE file][license] for details.
 
 [store-apps]: https://play.google.com/store/apps/collection/promotion_3000e26_androidtv_apps_all
 [studio]: https://developer.android.com/tools/studio/index.html
