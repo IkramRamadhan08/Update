@@ -59,7 +59,6 @@ public class CardExampleFragment extends BrowseFragment {
     private void setupUi() {
         setHeadersState(HEADERS_ENABLED);
         setHeadersTransitionOnBackEnabled(true);
-        setBadgeDrawable(getResources().getDrawable(R.drawable.title_android_tv, null));
         setOnSearchClickedListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
