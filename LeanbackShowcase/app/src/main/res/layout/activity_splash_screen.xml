@@ -4,16 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/card_primary_text"
+    android:background="@drawable/bg_splash_screen"
     tools:context=".app.Splash_Screen">
 
     <ImageView
-        android:layout_width="400dp"
-        android:layout_height="600dp"
-        android:src="@drawable/wonderful"
-        android:padding= "30dp"
+        android:layout_width="681dp"
+        android:layout_height="161dp"
+        android:layout_alignParentTop="true"
         android:layout_centerInParent="true"
+        android:layout_marginTop="-15dp"
+        android:padding="30dp"
+        android:src="@drawable/wonderful"
         tools:deviceIds="tv"
-        tools:ignore="MergeRootFrame"/>
+        tools:ignore="MergeRootFrame" />
 
 </RelativeLayout>

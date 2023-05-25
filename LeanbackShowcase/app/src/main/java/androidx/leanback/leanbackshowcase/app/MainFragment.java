@@ -89,7 +89,6 @@ public class MainFragment extends BrowseSupportFragment {
 
     private void setupUIElements() {
 
-        setBadgeDrawable(getResources().getDrawable(R.drawable.wonderful,null));
         setHeadersState(HEADERS_DISABLED);
         setHeadersTransitionOnBackEnabled(true);
         setBrandColor(getResources().getColor(R.color.fastlane_background));
