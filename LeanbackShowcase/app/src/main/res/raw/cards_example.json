@@ -4,53 +4,53 @@
     "title": "Provinsi Jawa Barat"
   },
   {
-    "title": "Kota",
+    "title": "Kota Bandung",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Wisata Tangkuban Perahu",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_01"
+        "localImageResource": "bg_tangkuban"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Wisata Kawah Putih Ciwidey",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_02"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Wisata Lembang Park & Zoo",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_03"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Wisata Orchid Forest Cikole",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_04"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Wisata Tebing Keraton",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_05"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Wisata The Great Asia Africa Lembang",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_06"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Wisata Kawah Rengganis Ciwidey",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_07"
@@ -58,13 +58,13 @@
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Wisata Bukit Moko",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_08"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Wisata Dago Dream Park",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_09"

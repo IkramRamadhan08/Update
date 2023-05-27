@@ -18,6 +18,6 @@ public class Splash_Screen extends FragmentActivity {
             Intent intent = new Intent(Splash_Screen.this,MainActivity.class);
             Splash_Screen.this.startActivity(intent);
             Splash_Screen.this.finish();
-        },5000);
+        },4000);
     }
 }
