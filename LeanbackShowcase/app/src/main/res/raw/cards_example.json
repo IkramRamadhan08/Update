@@ -4,274 +4,163 @@
     "title": "Provinsi Jawa Barat"
   },
   {
-    "title": "Kota Bandung",
+    "title": "Wisata Pegunungan",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata Tangkuban Perahu",
+        "title": "Kawah putih",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "bg_tangkuban"
+        "localImageResource": "kawah_putih"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata Kawah Putih Ciwidey",
+        "title": "Tangkuban Perahu",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_02"
+        "localImageResource": "tangkuban_perahu"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata Lembang Park & Zoo",
+        "title": "Gunung Papandayan",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_03"
+        "localImageResource": "gunung_papandayan"
+
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata Orchid Forest Cikole",
+        "title": "Gunung Ciremai",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_04"
+        "localImageResource": "gunung_ciremai"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata Tebing Keraton",
+        "title": "Gunung Cikuray",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata The Great Asia Africa Lembang",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata Kawah Rengganis Ciwidey",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata Bukit Moko",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata Dago Dream Park",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
+        "localImageResource": "gunung_cikuray"
       }
     ]
   },
   {
-    "title": "Kota",
+    "title": "Wisata Pantai",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Pantai Pelabuhan Ratu",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_01"
+        "localImageResource": "pantai_pelabuhan_ratu"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pantai Batu Karas",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_02"
+        "localImageResource": "pantai_batu_karas"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pantai Sayang Heulang",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_03"
+        "localImageResource": "pantai_sayang_heulang"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pantai Pangandaran",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_04"
+        "localImageResource": "pantai_pangandaran"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pantai Anyer",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
+        "localImageResource": "pantai_anyer"
       }
     ]
   },
   {
-    "title": "Kota",
+    "title": "Makanan Khas",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Tahu Sumedang",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_01"
+        "localImageResource": "tahu_sumedang"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Serabi Bandung",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_02"
+        "localImageResource": "serabi_bandung"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Sate Maranggi",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_03"
+        "localImageResource": "sate_maranggi"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Batagor",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_04"
+        "localImageResource": "batagor"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Dodol Garut",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
+        "localImageResource": "dodol_garut"
       }
     ]
   },
   {
-    "title": "Kota",
+    "title": "Budaya",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Angklung Dogdog Lojor",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_01"
+        "localImageResource": "angklung"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Wayang Golek",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_02"
+        "localImageResource": "wayang_golek"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Tari Cepet Sukabumi",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_03"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Nguyuh",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_04"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Bati Dermayon",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
       }
     ]
   },{
@@ -279,274 +168,162 @@
   "title": "Provinsi Jawa Tengah"
 },
   {
-    "title": "Kota",
+    "title": "Wisata Pegunungan",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Gunung Merbabu",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_01"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Gunung Sikuncir",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_02"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Gunung Sindoro Sumbing",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_03"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Gunung Prau",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_04"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Gunung Merapi",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
       }
     ]
   },
   {
-    "title": "Kota",
+    "title": "Wisata Pantai",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Pantai Tanjung Gelam",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_01"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pantai Menganti",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_02"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pantai Karang Bolong",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_03"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pantai Teluk Penyu",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_04"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pantai Bandengan",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
       }
     ]
   },
   {
-    "title": "Kota",
+    "title": "Makanan Khas",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Lumpia",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_01"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Wingko",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_02"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Mendoan",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_03"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Brambang Asem",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_04"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Roti Ganjel Rel",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
       }
     ]
   },
   {
-    "title": "Kota",
+    "title": "Budaya",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Tradisi Wetonan",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_01"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Tradisi Sadranan",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_02"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Upacara Ruwatan",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_03"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Upacara Larung Sesaji",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_04"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Upacara Tingkeban",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
       }
     ]
   },{
@@ -554,275 +331,164 @@
   "title": "Provinsi Jawa Timur"
 },
   {
-    "title": "Kota",
+    "title": "Wisata Pegunungan",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Gunung Bromo",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_01"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Gunung Ijen",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_02"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Gunung Semeru",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_03"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Gunung Lawu",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_04"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Gunung Raung",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
       }
     ]
   },
   {
-    "title": "Kota",
+    "title": "Wisata Pantai",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Pantai Sukamande",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_01"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pantai Pulau Merah",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_02"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pantai Klayar",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_03"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Tanjung Papuma",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_04"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Teluk Ijo",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
       }
     ]
   },
   {
-    "title": "Kota",
+    "title": "Makanan Khas",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Soto Lamongan",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_01"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Rawon",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_02"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Rujak Cingur",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_03"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pecel Madiun",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_04"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Gado-Gado",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
       }
     ]
   },
   {
-    "title": "Kota",
+    "title": "Budaya",
     "cards": [
       {
         "type": "MOVIE_COMPLETE",
         "description": "4,5%",
-        "title": "Wisata",
+        "title": "Festival Bandeng",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_01"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Ganjuran",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_02"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Karatan Sapi",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_03"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Pingitan",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_04"
       },
       {
         "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
+        "title": "Ritual Tumpeng Sewu",
         "description": "4,5%",
         "footerIconLocalImageResource": "stars_red",
         "localImageResource": "card_image_movie_05"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_06"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_07"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "description": "4,5%",
-        "title": "Wisata",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_08"
-      },
-      {
-        "type": "MOVIE_COMPLETE",
-        "title": "Wisata",
-        "description": "4,5%",
-        "footerIconLocalImageResource": "stars_red",
-        "localImageResource": "card_image_movie_09"
       }
+
     ]
   }
 ]

@@ -46,6 +46,10 @@ import android.widget.Toast;
 
 import com.google.gson.Gson;
 
+/**
+ * This fragment will be shown when the "Card Examples" card is selected at the home menu. It will
+ * display multiple card types.
+ */
 public class CardExampleFragment extends BrowseFragment {
 
     private ArrayObjectAdapter mRowsAdapter;
@@ -59,6 +63,7 @@ public class CardExampleFragment extends BrowseFragment {
     private void setupUi() {
         setHeadersState(HEADERS_ENABLED);
         setHeadersTransitionOnBackEnabled(true);
+        setTitle(getString(R.string.card_examples_title));
         setOnSearchClickedListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
